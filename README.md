@@ -32,7 +32,7 @@
 
 
 
-[Mail]: mailto: ut1vdev@gmail.com
+[Mail]: mailto:ut1vdev@gmail.com
 [Vk]: https://vk.com/krivl
 [Telegram]: https://t.me/kkqpex
 [Discord]:  https://discordapp.com/users/anonimus#0177
