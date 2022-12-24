@@ -1,7 +1,7 @@
 
-## Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&size=25&pause=1000&color=5227b7&width=435&lines=Another+random+github+profile...;kkqpex)](https://git.io/typing-svg)
+
+## Hi there 👋
 
 [![Codewars badge](https://www.codewars.com/users/kkqpexdev/badges/large)](https://www.codewars.com/users/kkqpexdev)
 <!-- - ⚡ I
