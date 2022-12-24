@@ -1,4 +1,4 @@
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,6 +31,17 @@
 <br />
 
 ### If you decide to contact me:
+<div id="badges" align="left">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/mail-256.png"/>][Mail]
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png"/>][Vk]
 [<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
