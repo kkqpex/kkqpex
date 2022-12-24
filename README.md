@@ -1,3 +1,14 @@
+<div id="badges" align="right">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <img width=38% src="https://i.imgur.com/RUMok1s.png" align="right"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&size=25&pause=1000&color=5227b7&width=435&lines=Another+random+github+profile...;kkqpex)](https://git.io/typing-svg)
