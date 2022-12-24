@@ -1,9 +1,9 @@
 <img width=38% src="https://i.imgur.com/RUMok1s.png" align="right"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=25&pause=1000&color=EAC0EB&width=435&lines=Another+random+github+profile...;qopu+(noname))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&size=25&pause=1000&color=5227b7&width=435&lines=Another+random+github+profile...;kkqpex)](https://git.io/typing-svg)
 
 ## Hi there 👋
-[![Codewars badge](https://www.codewars.com/users/qopu/badges/large)](https://www.codewars.com/users/qopu)
+[![Codewars badge](https://www.codewars.com/users/kkqpexdev/badges/large)](https://www.codewars.com/users/kkqpexdev)
 <!-- - ⚡ I
 - 🚀 I -->
 
