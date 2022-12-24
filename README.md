@@ -1,14 +1,3 @@
-<div id="badges" align="left">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&size=25&pause=1000&color=5227b7&width=435&lines=Another+random+github+profile...;kkqpex)](https://git.io/typing-svg)
 
@@ -31,17 +20,6 @@
 <br />
 
 ### If you decide to contact me:
-<div id="badges" align="left">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/mail-256.png"/>][Mail]
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png"/>][Vk]
 [<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
@@ -54,10 +32,10 @@
 
 
 
-[Mail]: mailto:
-[Vk]: https://vk.com/
-[Telegram]: https://t.me/
-[Discord]:  https://discordapp.com/users/
+[Mail]: mailto: ut1vdev@gmail.com
+[Vk]: https://vk.com/krivl
+[Telegram]: https://t.me/kkqpex
+[Discord]:  https://discordapp.com/users/anonimus#0177
 
 [CS]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [DotNet]: https://dotnet.microsoft.com/en-us/
