@@ -13,7 +13,6 @@
 [<img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][Python]
 [<img align="center" width="30px" src="https://www.saashub.com/images/app/service_logos/19/1e0d827a9c4c/large.png?1541972415"/>][IDA]
 [<img align="center" width="30px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-256.png"/>][SQL]
-[<img align="center" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png"/>][Linux]
 [<img align="center" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"/>][Git]
 [<img align="center" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-256.png"/>][Github]
 [<img align="center" width="30px" src="https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/256/Command_Prompt.png"/>][cmd]
