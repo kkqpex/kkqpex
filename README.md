@@ -1,6 +1,5 @@
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&size=25&pause=1000&color=5227b7&width=435&lines=Another+random+github+profile...;kkqpex)](https://git.io/typing-svg)
-<div />
 ## Hi there 👋
 
 [![Codewars badge](https://www.codewars.com/users/kkqpexdev/badges/large)](https://www.codewars.com/users/kkqpexdev)
@@ -26,12 +25,12 @@
 [<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
 [<img align="left" width="24px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
 <br />
+<div />
 
 
 ### My Dev Stats:
 <img align='left' width=47% src="https://github-readme-stats.vercel.app/api?username=kkqpex&count_private=true&show_icons=true&include_all_commits=true;&theme=midnight-purple" />
 <img align='left' width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkqpex&layout=compacte&theme=midnight-purple" />
-
 
 
 [Mail]: mailto:ut1vdev@gmail.com
